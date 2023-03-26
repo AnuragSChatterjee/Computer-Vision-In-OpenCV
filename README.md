@@ -1,0 +1,2 @@
+# Computer-Vision-In-OpenCV---Practice-From-OpenCV-Documentation-Notes
+After completing a Computer Vision course on Kaggle and having after earned a Certificate In Computer Vision, I thought of practicing some OpenCV concepts from the documentation to improve my understanding of OpenCV and Computer Vision using a photo of myself as an image sample, and played around with my image to make some modifications.
